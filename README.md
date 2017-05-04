@@ -1,7 +1,7 @@
 # LinkNet
 
 This repository contains our Torch7 implementation of the network developed by us at e-Lab.
-You can go to out blogpost regarding this netwrok using [this](https://codeac29.github.io/projects/linknet/) link.
+You can go to out [blogpost](https://codeac29.github.io/projects/linknet/) for this network for further details.
 
 ## Dependencies:
 

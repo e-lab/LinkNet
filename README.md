@@ -1,7 +1,7 @@
 # LinkNet
 
 This repository contains our Torch7 implementation of the network developed by us at e-Lab.
-You can go to out [blogpost](https://codeac29.github.io/projects/linknet/) for this network for further details.
+You can go to our [blogpost](https://codeac29.github.io/projects/linknet/) or read the article [LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation](https://arxiv.org/abs/1707.03718) for further details.
 
 ## Dependencies:
 

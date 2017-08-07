@@ -23,6 +23,15 @@ This is done using [prepCamVid.lua](data/prepCamVid.lua) file.
 [dataDistributionCV.txt](misc/dataDistributionCV.txt) contains the detail about splitting of CamVid dataset.
 These things are automatically run before training of the network.
 
+LinkNet performance on both of the above dataset:
+
+| Datasets | Best IoU | Best iIoU |
+|:--------:|:----------------:|:------------:|
+| Cityscapes | 76.44 | 60.78 |
+| CamVid | 69.10 | 55.83 |
+
+Pretrained models and confusion matrices for both datasets can be found in the latest [release](https://github.com/e-lab/LinkNet/releases/latest).
+
 ## Files/folders and their usage:
 
 * [run.lua](run.lua)    : main file
